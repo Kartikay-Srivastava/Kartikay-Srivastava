@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Shivam Nishad!
+# 👋 Hi there, I'm Kartikay-Srivastava!
 
 🚀 Passionate Developer | Open Source Enthusiast | Tech Explorer
 
@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **AI using Python**
 - 👯 I’m looking to collaborate on **real-world projects**
-- 📫 Reach me at: **sn.shivamni@gmail.com**
+- 📫 Reach me at: **2k23.mca2312450@gmail.com**
 
 ---
 
@@ -33,8 +33,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShivamNishad0&show_icons=true&theme=github_dark" width="47%"/>
-  <img src="https://streak-stats.demolab.com?user=ShivamNishad0&theme=dark&hide_border=true" width="47%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Kartikay-Srivastava&show_icons=true&theme=github_dark" width="47%"/>
+  <img src="https://streak-stats.demolab.com?user=Kartikay-Srivastava&theme=dark&hide_border=true" width="47%"/>
 </p>
 
 ---
@@ -42,8 +42,8 @@
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-nishad-32136b231/)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/snshivamni)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sn.shivamni@gmail.com)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
+[![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:2k23.mca2312450@gmail.com)
 
 ---
 
