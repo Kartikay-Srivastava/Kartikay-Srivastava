@@ -3,7 +3,6 @@
 🚀 Passionate Developer | Open Source Enthusiast | Tech Explorer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Kartikay-Srivastava0&label=Profile%20Views&color=0e75b6&style=flat)
-![GitHub Followers](https://img.shields.io/github/followers/Kartikay-Srivastava0?label=Followers&style=social)
 
 ---
 
